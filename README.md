@@ -278,3 +278,9 @@ Depois do _rebase_, nosso histórico ficará assim:
 ```
 M1<---M2<---M3<---M4<---M5<---M6<---C1’<---C2’
 ```
+
+### Créditos
+
+https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
+
+https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase
